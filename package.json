@@ -6,6 +6,7 @@
   "scripts": {
     "start": "npm run build && node dist/",
     "watch": "npx ts-node-dev --respawn src/",
+    "dev": "npx ts-node-dev --respawn src/",
     "build": "tsc",
     "test": "jest --verbose",
     "lint": "eslint . --fix"
