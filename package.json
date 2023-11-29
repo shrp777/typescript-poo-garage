@@ -1,7 +1,7 @@
 {
-  "name": "mario-in-oop-land",
+  "name": "garage",
   "version": "1.0.0",
-  "description": "",
+  "description": "Démonstration POO",
   "main": "src/index.js",
   "scripts": {
     "start": "npm run build && node dist/",
