@@ -12,7 +12,7 @@ class Garage {
       (car) => car.immatriculation === immatriculation
     );
 
-    this.parkedCars.splice(index, 1); //remove the car to the parkedCars list
+    this.parkedCars.splice(index, 1); //remove the car from the parkedCars list
   }
 }
 
