@@ -2,6 +2,23 @@
 
 Initiation à la Programmation Orientée Objet avec TypeScript.
 
+## Concepts de la POO
+
+- Classes
+- Encapsulation
+- Héritage
+- Abstraction
+  - Interface
+  - Classe Abstraite
+  - Polymorphisme
+- Délégation
+- Composition
+- Délégation
+- Injection de dépendance (DI)
+- Inversion de dépendance (IoC)
+
+- Tests Unitaires (bonus)
+
 ## Installation
 
 Avant toute utilisation, installer les dépendances NPM :
