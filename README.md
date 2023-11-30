@@ -4,18 +4,18 @@ Initiation à la Programmation Orientée Objet avec TypeScript.
 
 ## Concepts de la POO
 
-- Classes
-- Encapsulation
-- Héritage
-- Abstraction
-  - Interface
-  - Classe Abstraite
-  - Polymorphisme
-- Délégation
-- Composition
-- Délégation
-- Injection de dépendance (DI)
-- Inversion de dépendance (IoC)
+- [x] Classes
+- [x] Encapsulation
+- [x] Héritage
+- [x] Abstraction
+  - [x] Interface
+  - [ ] Classe Abstraite
+  - [x] Polymorphisme
+- [x] Délégation
+- [x] Composition
+- [x] Médiation
+- [x] Injection de dépendance (DI)
+- [x] Inversion de dépendance (IoC)
 
 - Tests Unitaires (bonus)
 
